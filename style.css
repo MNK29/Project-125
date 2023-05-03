@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div{
+    background-color: darkcyan;
+    width: fit-content;
+    border-radius: 20px;
+    padding: 20px;
+    border-width: 5px;
+    border-color: cyan;
+    border-style: double;
+    box-shadow: 5px 5px 10px cyan;
+}
+
+h1{
+    color: aquamarine;
+    font-family: 'Special Elite', cursive;
+    font-size: 50px;
+    text-shadow: 2px 2px red;
+}
+
+.note{
+    font-size: 15px;
+    color: aqua;
+}
+
+.footer{
+    font-size: 20px;
+    font-family: 'Rock Salt', cursive;
+    font-weight: bolder;
+    text-shadow: 2px 2px orangered;
+    background-color: darkcyan;
+    color: aquamarine;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    background-color: greenyellow;
+    border: 5px solid darkgreen;
+    border-radius: 50px;
+    box-shadow: 5px 5px 20px green;
+}
